@@ -1,0 +1,72 @@
+commit 93baf7418a913cfc1c443e2e5e8228b52bcc46df
+Merge: 2db1f6c 63b952f
+Author: Gerardo Hdz Re <geardohdzreal91@gmail.com>
+Date:   Thu Apr 3 14:29:28 2025 -0600
+
+    se actualiza cambios de semana2
+
+commit 63b952f773c63b3a816ad3147b5083b6cea2806f
+Author: Gerardo Real <gerardohdzreal91@gmail.com>
+Date:   Thu Apr 3 14:27:56 2025 -0600
+
+    cambio de genero para semana 2
+
+commit 2db1f6c6576e7a3f5ce945baaacfc668e734fb5f
+Author: Gerardo Hdz Re <geardohdzreal91@gmail.com>
+Date:   Thu Apr 3 14:09:08 2025 -0600
+
+    se agrega inicio de la semana dos
+
+commit a23b52a9ece3ddeb018b804663cbf57b92d1aaad
+Author: Gerardo Hdz Re <geardohdzreal91@gmail.com>
+Date:   Thu Apr 3 14:07:27 2025 -0600
+
+    se modifico el archivo de canciones
+
+commit 6ca00abcd99a3411c822ee33c75f5c4e9a223332
+Author: Gerardo Real <gerardohdzreal91@gmail.com>
+Date:   Tue Apr 1 10:37:04 2025 -0600
+
+    se agrega cancion desde rama original vivo-fobia
+
+commit f578b6741936883ec3dfeccc79efe593da74c85a
+Author: Gerardo Real <gerardohdzreal91@gmail.com>
+Date:   Tue Apr 1 10:17:19 2025 -0600
+
+    se crea rama de letras y se agregan dos primeras canciones que se ocuparan
+
+commit 8942d0e0c09cbab51b7216afd21f22951020facf
+Author: Gerardo Hdz Re <geardohdzreal91@gmail.com>
+Date:   Tue Apr 1 10:11:34 2025 -0600
+
+    se modifico el Readme a uno mas acorde con el proyecto
+
+commit eb634f9ddb91c01cf0c5d8aa31f71c1898614b09
+Author: Gerardo Hdz Re <geardohdzreal91@gmail.com>
+Date:   Mon Mar 31 23:47:39 2025 -0600
+
+    inicia toda la historia en historia
+
+commit 6a8e3e9e7f8944b2333fa91e2c63851be92c90dd
+Author: Gerardo Hdz Re <geardohdzreal91@gmail.com>
+Date:   Mon Mar 31 20:02:19 2025 -0600
+
+    se hace prueba en historias desde segunda rama
+
+commit 06425240060a0296e96185aa07aa35f3732911f9
+Author: Gerardo Real <gerardohdzreal91@gmail.com>
+Date:   Mon Mar 31 19:47:45 2025 -0600
+
+    se anexan todos los datos
+
+commit b55cc0622e99cbc13edc97b8a92ca95a256fe343
+Author: Gerardo Hdz Re <geardohdzreal91@gmail.com>
+Date:   Mon Mar 31 19:22:06 2025 -0600
+
+    se empieza a hacer la prueba de git para el repositorio de segunda maquina
+
+commit 5db4cafbdea10e71667160d928a9bd7057e1f843
+Author: gaboo3312 <168670552+gaboo3312@users.noreply.github.com>
+Date:   Mon Mar 31 17:21:44 2025 -0600
+
+    Initial commit
